@@ -1,0 +1,128 @@
+Compiler version: 64Bit
+
+ID: אחמד סכראן_7092_assignsubmission_file_
+Code path: C:\Users\שלי רביבו\Desktop\פרוייקט מס 2\Project Code\HETS - Azo\Assets\Test Required FIles\ZipArchiveHandlerTest\Codes To Check\אחמד סכראן_7092_assignsubmission_file_\mtla3.c
+Exe path: C:\Users\שלי רביבו\Desktop\פרוייקט מס 2\Project Code\HETS - Azo\Assets\Test Required FIles\ZipArchiveHandlerTest\Codes To Check\אחמד סכראן_7092_assignsubmission_file_\Exe\Source.exe
+Code submitted: True
+Exe submitted: True
+Compiler output: No errors or warnings detected.
+Compiled Exe path: C:\Users\שלי רביבו\Desktop\פרוייקט מס 2\Project Code\HETS - Azo\Assets\Test Required FIles\ZipArchiveHandlerTest\Codes To Check\אחמד סכראן_7092_assignsubmission_file_\mtla3.exe
+
+No results.
+
+***********Compiled .exe results:
+****Input:
+
+9 5
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Timed out!
+
+**Wrong Output!
+
+
+
+****Input:
+
+7 3
+
+****Supposed output:
+
+3
+
+****Actual output:
+
+Timed out!
+
+**Correct Output (is TNC)
+
+****Input:
+
+
+
+****Supposed output:
+
+
+
+****Actual output:
+
+Timed out!
+
+**Wrong Output!
+
+
+
+****Input:
+
+75
+
+****Supposed output:
+
+4
+
+****Actual output:
+
+Timed out!
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 4
+1 1
+10
+
+****Supposed output:
+
+3
+
+****Actual output:
+
+Timed out!
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 2
+10
+
+****Supposed output:
+
+3
+
+****Actual output:
+
+Timed out!
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 3
+10
+
+****Supposed output:
+
+3
+
+****Actual output:
+
+Timed out!
+
+**Correct Output (is TNC)
+
+
+Overall success rate of: 57.142857142857142857142857140% with POSSIBLE CHEATING!
+
+Grade: 95
+

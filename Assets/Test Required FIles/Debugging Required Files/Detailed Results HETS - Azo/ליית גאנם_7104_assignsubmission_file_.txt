@@ -1,0 +1,19 @@
+Compiler version: 64Bit
+
+ID: ליית גאנם_7104_assignsubmission_file_
+Code path: C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\Assets\Test Required FIles\Debugging Required Files\Codes To Check\ליית גאנם_7104_assignsubmission_file_\h.w3.c
+Exe path: 
+Code submitted: True
+Exe submitted: False
+Compiler output: In file included from h.w3.c:5:
+In file included from c:/users/user/desktop/studies/אימות ובדיקות תכנה/project/stage 3/designs/hets1/assets/tcc/include/stdio.h:9:
+In file included from c:/users/user/desktop/studies/אימות ובדיקות תכנה/project/stage 3/designs/hets1/assets/tcc/include/_mingw.h:27:
+c:/users/user/desktop/studies/אימות ובדיקות תכנה/project/stage 3/designs/hets1/assets/tcc/include/stddef.h:4: error: ';' expected (got "typedef")
+
+Compiled Exe path: 
+
+No results.
+Overall success rate of: 0%
+
+Grade: 20
+

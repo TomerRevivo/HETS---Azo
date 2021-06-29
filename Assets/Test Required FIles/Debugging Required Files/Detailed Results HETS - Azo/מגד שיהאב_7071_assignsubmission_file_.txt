@@ -1,0 +1,19 @@
+Compiler version: 64Bit
+
+ID: מגד שיהאב_7071_assignsubmission_file_
+Code path: C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\Assets\Test Required FIles\Debugging Required Files\Codes To Check\מגד שיהאב_7071_assignsubmission_file_\homework.3.c
+Exe path: 
+Code submitted: True
+Exe submitted: False
+Compiler output: In file included from homework.3.c:5:
+In file included from c:/users/user/desktop/studies/אימות ובדיקות תכנה/project/stage 3/designs/hets1/assets/tcc/include/stdio.h:9:
+In file included from c:/users/user/desktop/studies/אימות ובדיקות תכנה/project/stage 3/designs/hets1/assets/tcc/include/_mingw.h:27:
+c:/users/user/desktop/studies/אימות ובדיקות תכנה/project/stage 3/designs/hets1/assets/tcc/include/stddef.h:4: error: ';' expected (got "typedef")
+
+Compiled Exe path: 
+
+No results.
+Overall success rate of: 0%
+
+Grade: 20
+

@@ -1,0 +1,110 @@
+Compiler version: 64Bit
+
+ID: דניאל קרנט_7088_assignsubmission_file_
+Code path: C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\Assets\Test Required FIles\Debugging Required Files\Codes To Check\דניאל קרנט_7088_assignsubmission_file_\Source.c
+Exe path: 
+Code submitted: True
+Exe submitted: True
+Compiler output: Source.c:15: warning: implicit declaration of function 'scanf_s'
+
+Compiled Exe path: C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\Assets\Test Required FIles\Debugging Required Files\Codes To Check\דניאל קרנט_7088_assignsubmission_file_\Source.exe
+
+No results.
+
+***********Compiled .exe results:
+****Input:
+
+9 5
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 4
+
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 25
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 4
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 2
+
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 19
+
+**Correct Output (is TNC)
+
+****Input:
+
+7 3
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 2
+
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 23
+
+**Correct Output (is TNC)
+
+****Input:
+
+9 2
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 7
+
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 25
+
+**Wrong Output!
+
+
+
+****Input:
+
+1 9
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 8
+
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 17
+
+**Wrong Output!
+
+
+
+
+Overall success rate of: 40.0%
+
+Grade: 67
+

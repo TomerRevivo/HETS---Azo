@@ -1,0 +1,198 @@
+Compiler version: 64Bit
+
+ID: גורי (נמרוד) שוורצמן_7091_assignsubmission_file_
+Code path: C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\Assets\Test Required FIles\Debugging Required Files\Codes To Check\גורי (נמרוד) שוורצמן_7091_assignsubmission_file_\NewAscii.c
+Exe path: C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\Assets\Test Required FIles\Debugging Required Files\Codes To Check\גורי (נמרוד) שוורצמן_7091_assignsubmission_file_\Exe\Source.exe
+Code submitted: True
+Exe submitted: True
+Compiler output: NewAscii.c:10: warning: implicit declaration of function 'scanf_s'
+
+Compiled Exe path: C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\Assets\Test Required FIles\Debugging Required Files\Codes To Check\גורי (נמרוד) שוורצמן_7091_assignsubmission_file_\NewAscii.exe
+
+
+
+***********Submitted .exe results:
+****Input:
+
+9 5
+
+****Suppoesd output:
+
+enter 2 chars seperated by space:
+your char diff is: 4
+
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 4
+
+
+**Correct Output
+
+****Input:
+
+3 4
+
+****Suppoesd output:
+
+enter 2 chars seperated by space:
+your char diff is: 2
+
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 1
+
+
+**Correct Output (is TNC)
+
+****Input:
+
+7 3
+
+****Suppoesd output:
+
+enter 2 chars seperated by space:
+your char diff is: 2
+
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 4
+
+
+**Correct Output (is TNC)
+
+****Input:
+
+9 2
+
+****Suppoesd output:
+
+enter 2 chars seperated by space:
+your char diff is: 7
+
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 7
+
+
+**Correct Output
+
+****Input:
+
+1 9
+
+****Suppoesd output:
+
+enter 2 chars seperated by space:
+your char diff is: 8
+
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 8
+
+
+**Correct Output
+
+
+
+***********Compiled .exe results:
+****Input:
+
+9 5
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 4
+
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 4
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 4
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 2
+
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 1
+
+**Correct Output (is TNC)
+
+****Input:
+
+7 3
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 2
+
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 4
+
+**Correct Output (is TNC)
+
+****Input:
+
+9 2
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 7
+
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 7
+
+**Wrong Output!
+
+
+
+****Input:
+
+1 9
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 8
+
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 8
+
+**Wrong Output!
+
+
+
+
+Overall success rate of: 100% with POSSIBLE CHEATING!
+
+Grade: 100
+

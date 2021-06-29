@@ -1,0 +1,110 @@
+Compiler version: 64Bit
+
+ID: ולדימיר משה דרוב_7074_assignsubmission_file_
+Code path: C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\Assets\Test Required FIles\Debugging Required Files\Codes To Check\ולדימיר משה דרוב_7074_assignsubmission_file_\Source7.c
+Exe path: 
+Code submitted: True
+Exe submitted: True
+Compiler output: Source7.c:8: warning: implicit declaration of function 'scanf_s'
+
+Compiled Exe path: C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\Assets\Test Required FIles\Debugging Required Files\Codes To Check\ולדימיר משה דרוב_7074_assignsubmission_file_\Source7.exe
+
+No results.
+
+***********Compiled .exe results:
+****Input:
+
+9 5
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 4
+
+
+****Actual output:
+
+plese enter two chars with space between them
+ the absolute number between two chars is 4
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 4
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 2
+
+
+****Actual output:
+
+plese enter two chars with space between them
+ the absolute number between two chars is 1
+
+**Correct Output (is TNC)
+
+****Input:
+
+7 3
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 2
+
+
+****Actual output:
+
+plese enter two chars with space between them
+ the absolute number between two chars is 4
+
+**Correct Output (is TNC)
+
+****Input:
+
+9 2
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 7
+
+
+****Actual output:
+
+plese enter two chars with space between them
+ the absolute number between two chars is 7
+
+**Wrong Output!
+
+
+
+****Input:
+
+1 9
+
+****Supposed output:
+
+enter 2 chars seperated by space:
+your char diff is: 8
+
+
+****Actual output:
+
+plese enter two chars with space between them
+ the absolute number between two chars is 8
+
+**Wrong Output!
+
+
+
+
+Overall success rate of: 40.0%
+
+Grade: 67
+
